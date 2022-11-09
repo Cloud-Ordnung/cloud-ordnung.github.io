@@ -1,0 +1,16 @@
+.main-banner {
+	background-image: url('../img/centerbg_t.jpg');
+	background-size: Auto 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+
+	height: 587px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    text-align: center;
+}
